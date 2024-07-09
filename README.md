@@ -1,3 +1,8 @@
+# Todo
+Forked this to play with it.
+
+Looking to try splitting the WS and BS columns -- motivation being for applying army rules that only affect one of those stats (AdMech Doctrina Imperitives).
+
 # WH40k-Point-Efficiency-Calculator
 Excel sheet for computing expected damage and point efficiency in Warhammer 40k 10th edition
 
